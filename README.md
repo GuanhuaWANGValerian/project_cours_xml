@@ -1,5 +1,5 @@
 # Projet XML
-** Mingqiang WANG & Guanhua WANG
+**Mingqiang WANG & Guanhua WANG**
 
 ## Data
 ### CSV
